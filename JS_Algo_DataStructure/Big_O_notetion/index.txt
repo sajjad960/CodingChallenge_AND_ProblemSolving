@@ -1,0 +1,4 @@
+What does better mean about code
+1. Faster
+2. Less memory intensive
+3. More Readable

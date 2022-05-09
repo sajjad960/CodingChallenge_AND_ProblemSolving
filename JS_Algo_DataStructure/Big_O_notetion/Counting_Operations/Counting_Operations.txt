@@ -1,0 +1,16 @@
+function addUpTo(n) {
+    return n * (n + 1) / 2;
+}
+
+--> Here ( 1 multiplication, 1 addition, 1 divition) 
+
+function addUpTo2(n) {
+    let total = 0;
+    for (let i = 0; i <= n; i++) {
+        total += i;
+
+    }
+    return total
+}
+
+here---> 5n+2 (n grow operations grow)
