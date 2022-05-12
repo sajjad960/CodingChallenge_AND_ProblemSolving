@@ -2,3 +2,7 @@ What does better mean about code
 1. Faster
 2. Less memory intensive
 3. More Readable
+
+
+/// For testing function performance BIG O use this link
+https://rithmschool.github.io/function-timer-demo/
