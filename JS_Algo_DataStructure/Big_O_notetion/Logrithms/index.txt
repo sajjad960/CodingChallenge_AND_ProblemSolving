@@ -1,3 +1,8 @@
 O(nlogn) is better than O(n squar);
 
 O(log n) is almost O(1)
+
+
+// When it's arrive
+Efficient sorting algorithms involve logarithms**
+Recursion sometimes involves logarithmic space complexity
