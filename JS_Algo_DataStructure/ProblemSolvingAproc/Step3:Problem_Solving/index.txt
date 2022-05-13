@@ -1,0 +1,16 @@
+BREAK IT DOWN
+1. Explicityly write out the steps you need to take.
+        -------> it's forcing you to think about the code you'll write before you write it, and helps you catch any.
+        lingering conceptional issue or misunderstandings before u dive in and have to worry about details as well.
+
+
+Examples;
+    function charCount(str) {
+            // make object to return at end
+            // loop over string, for each character...
+            // if character is number/letter AND a key of object update count one,
+            // if character is number/letter not a key set key with a 1 value,
+            // if character is something else (space, priod, etc.) don't do anything
+        return object at end
+    }
+
