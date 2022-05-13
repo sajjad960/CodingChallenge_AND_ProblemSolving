@@ -1,0 +1,7 @@
+// If we need 9000 number data from 1000 array index data
+then i think that form 1 to 1000 visit JS and give me 9000 data,
+but actually it's rong, it's give me 9000 index number data and since it's acces so BIGO is (1) constant.
+
+
+*** Insertion into Bigening is Problem matic. it's Big O(n)
+** Searching is BIg O(n) So, If i am looking for 'fuck" work into a array, Then it's need to check each element of array. it's BIG O(n)
