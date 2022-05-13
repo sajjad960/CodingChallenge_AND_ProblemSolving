@@ -1,0 +1,17 @@
+Expolore Examples
+-------------------------
+Coming up with Examples can help you understand the problem better.
+Examples also provide sanity checks that your eventual solution works how it should.
+
+Following rule...
+1. Start with Simple Examples
+2. Progress to More Complex Examples
+3. Explore examples with Empty Inputs
+4. Explore Examples with invalid Inputs
+
+----> examples
+Write a function which takes in a string and returns counts of each character in the string.
+1. charCount("aaaa") and charCount('hello') ---- Simple examples
+2. "my phone number is 182763" --- What happen with number or with space
+3. "Hello hi" ----------what happen here with two same H and h
+4. when charCount("") what we return null or number something else or error
