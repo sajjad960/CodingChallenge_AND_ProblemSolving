@@ -4,4 +4,4 @@ but actually it's rong, it's give me 9000 index number data and since it's acces
 
 
 *** Insertion into Bigening is Problem matic. it's Big O(n)
-** Searching is BIg O(n) So, If i am looking for 'fuck" work into a array, Then it's need to check each element of array. it's BIG O(n)
+** Searching is BIg O(n) So, If i am looking for 'fuck" word into a array, Then it's need to check each element of array. it's BIG O(n)

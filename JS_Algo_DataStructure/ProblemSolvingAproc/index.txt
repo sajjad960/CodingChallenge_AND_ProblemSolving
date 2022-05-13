@@ -1,0 +1,21 @@
+Main Part is!
+
+Understand the problem.
+-----------------------------
+1.Can I restate the problem with my own words?
+2. What are the inputs that go into the problem!
+3. What are the outputs that should come from the solution to the problem.
+4. Input can make the outputs successfully? Or Do I have enough information to solve the problem? (if possible think about this question, otherwise move);
+5. How should I label the important piesces of data that are a part of the problem.
+
+----> A example
+Write a function which takes two numbers and returs their sum.
+1. "Implement adition"
+2. Input goes to the the problem is two number (like intiger or Floating number). {
+    i. what happen for big or large number (JS gives infinity);
+    ii. What happen if someOne put more input than two input
+    iii. what about the string
+}
+3. what's the output ? (int, float ? string ?)
+4. What happen if a input missing ?
+5.
