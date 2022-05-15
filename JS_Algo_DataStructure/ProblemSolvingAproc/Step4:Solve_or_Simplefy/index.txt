@@ -1,0 +1,4 @@
+1. Find the core difficulty in what you're trying to do.
+2. Temporary ignore that difficulty.
+3. Write a simplified solution
+4. then incorporate that difficulty back in.
