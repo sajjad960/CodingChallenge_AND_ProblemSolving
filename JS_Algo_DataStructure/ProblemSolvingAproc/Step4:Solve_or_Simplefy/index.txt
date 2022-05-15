@@ -2,3 +2,10 @@
 2. Temporary ignore that difficulty.
 3. Write a simplified solution
 4. then incorporate that difficulty back in.
+
+
+// Change something,
+1.like for goes to for of,
+2.if goes to one life solution
+3.regex goes with charCodeAt number
+4.and Use lowercase when really need.
