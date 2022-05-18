@@ -1,0 +1,1 @@
+// runing for loop one after one not make n square
