@@ -1,0 +1,12 @@
+//What is recursion
+A process (a function in our case) that calls itself
+
+// It's everywhere
+1. JSON.parse / JSON.stringify
+2. Document.getElementById and Dom Traversal algorithms
+3. Object Traversal
+4. We will see it with more complex data structures
+5. It's sometimes a cleaner alternative to iteration
+
+//Need
+it's really need when I start making own Json.parse, Traversing Tree

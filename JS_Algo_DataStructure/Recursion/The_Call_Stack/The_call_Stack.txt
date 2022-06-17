@@ -1,0 +1,6 @@
+In almost all program languages, there is a built in dat structure that manage what happen when a fucktion invoked.
+For JavaScript it's call -> Call Stack
+
+-------------------The Call Stack---------------
+II. Any time a fuction is invoked it is placed on the top of the call stack.
+III. When js sees the return keyword or when the fuction ends, the compiler will remove it.

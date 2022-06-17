@@ -1,0 +1,7 @@
+// Besically ,
+invoke the same function with a different input until you reach your base case.
+
+
+// Two essential parts of a recursive function
+I. Base case
+II. Different input
