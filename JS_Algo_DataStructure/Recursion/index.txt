@@ -10,3 +10,8 @@ A process (a function in our case) that calls itself
 
 //Need
 it's really need when I start making own Json.parse, Traversing Tree
+
+// Two thing to look carefully
+I. Base selection
+II. Returning code is right.
+III. Stack Overflow (call stack exedded)
